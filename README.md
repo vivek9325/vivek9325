@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/11059198?v=4" width="130" style="border-radius: 50%; border: 4px solid #0078D7;" alt="Vivek Arora"/>
+<img src="https://avatars.githubusercontent.com/u/11059198?v=4" width="130" style="border-radius: 50%;" alt="Vivek Arora"/>
 
 # 👋 Hi, I'm **Vivek Arora**
 
-### 🎓 Sr. Technical Trainer · ✍️ Author · 🔍 SRE & Observability Consultant
+### 🎓 Sr. Technical Trainer &nbsp;·&nbsp; ✍️ Author &nbsp;·&nbsp; 🔍 SRE & Observability Consultant
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek11arora/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@StackMasterTech)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivek9325)
-[![Location](https://img.shields.io/badge/📍_Bangalore,_India-FF6B35?style=for-the-badge)](https://github.com/vivek9325)
+[![Location](https://img.shields.io/badge/📍_Bangalore,_India-FF6B35?style=for-the-badge&logoColor=white)](https://github.com/vivek9325)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vivek9325&label=Profile%20Views&color=0078D7&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/vivek9325?label=Followers&style=for-the-badge&color=0078D7)
+[![GitHub followers](https://img.shields.io/github/followers/vivek9325?label=Followers&style=for-the-badge&color=0078D7)](https://github.com/vivek9325?tab=followers)
 
 </div>
 
@@ -90,7 +90,25 @@ I help professionals and organizations build **real-world skills** through hands
 
 ---
 
-## 📚 Training Programs & Certifications
+## 📊 GitHub Stats
+
+<div align="center">
+
+<br/>
+
+<!-- Streak Stats - uses demolab.com which is actively maintained -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vivek9325&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<br/>
+
+<!-- Activity Graph - reliable alternative -->
+[![Vivek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vivek9325&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 📚 Training Programs
 
 <details>
 <summary>🔭 <strong>Observability & APM (click to expand)</strong></summary>
@@ -136,20 +154,6 @@ I help professionals and organizations build **real-world skills** through hands
 🎬  Creating content for LinkedIn & YouTube @StackMasterTech
 🏛️  Enterprise training delivery at top MNCs & banks
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivek9325&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek9325&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vivek9325&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
